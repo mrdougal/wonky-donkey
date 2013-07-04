@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 require 'yaml'
 
-class WonkeyDonkey
+class WonkyDonkey
   
   attr_accessor :attributes, :read, :listen
   
@@ -72,8 +72,4 @@ class WonkeyDonkey
   end
   
 end
-
-
-# WonkeyDonkey.read
-WonkeyDonkey.listen
 
