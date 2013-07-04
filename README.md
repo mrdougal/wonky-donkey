@@ -18,6 +18,7 @@ To listen to the story
   $ ./listen
 
 
+*Only works on a mac though*
 
 Buy the book
 ------------
