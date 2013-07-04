@@ -1,16 +1,26 @@
-wonky-donkey
-============
+The Wonky Donkey
+================
 
-My child's favourite book in less than 100 lines of ruby
+After scores of nights reading this book to my son
+i started making up verses to his favourite book the wonky donkey. 
+
+So i've written the story in ~100 lines of ruby for a laugh
+
+To read the story
+-----------------
+
+ $ ./read
 
 
-to read the story
-=================
+To listen to the story
+----------------------
 
-  ./read
+  $ ./listen
 
 
-to listen to the story
-======================
 
-  ./listen
+Buy the book
+------------
+http://shop.abc.net.au/products/wonky-donkey
+
+The wonky donkey is written by Craig Smith and illustrated by Kate Cowley
